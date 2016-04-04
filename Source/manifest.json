@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Goons To Those Bee Guys",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces texts associated with the Imperium in EVE with 'Those Bee Guys (you know, from EVE Online)'.",
 	"content_scripts": 
 	[
 		{
