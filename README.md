@@ -3,7 +3,7 @@ TEST Narrative Corrector Please Ignore
 
 A very simple plugin based on the Cloud-To-Butt Plugin (thanks panicsteve) to correct some of the most common mistakes made by Imperium pilots. Or, as I should say: those bees (you know, from eve).
 
-You can find the plugin (chrome only) over here: https://chrome.google.com/webstore/detail/hjicnjpcefgjpangkdfelbpmigmecnla
+You can find the plugin (chrome only) over here: https://chrome.google.com/webstore/detail/test-narrative-corrector/hjicnjpcefgjpangkdfelbpmigmecnla
 
 ##Currently Supported Text
 
