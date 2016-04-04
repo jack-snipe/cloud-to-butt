@@ -1,38 +1,26 @@
-cloud-to-butt
+TEST Narrative Corrector Please Ignore
 =============
 
-![](logo.png)
+A very simple plugin based on the Cloud-To-Butt Plugin (thanks panicsteve) to correct some of the most common mistakes made by Imperium pilots. Or, as I should say: those bees (you know, from eve).
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+You can find the plugin (chrome only) over here: https://chrome.google.com/webstore/detail/hjicnjpcefgjpangkdfelbpmigmecnla
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+##Currently Supported Text
 
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_ extension replaces only the phrase described above. Thank you for your concern.
+These are the expressions currently supported by the TEST Narrative Corrector, if you notice any other narrative mistakes by Queen Bee, or those bees (you know, from eve), please send them to Jack Snipe (EVE Mail or TEST Jabber) or /u/jacksnipe (Reddit
 
-Screenshot Gallery
-------------------
+###Coalitions
+The Imperium, Imperium, CFC, Goons, Goonswarm => Those Bee Guys (You Know, From EVE)
+Band of Backstabbers => Money Badger Coalition
 
-http://www.flickr.com/groups/cloud-to-butt/
+###Names
+Mittani, Mittens => Queen Bee
 
-Installation
-------------
+###The War
+The War of Sovless Aggression, The Mercenary Wars => World War BEE
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+##License Information
+The Middle Management Dino obviously belongs to TEST and is used with the permission of Sapporo "Subaru" Jones.
+The code in this plugin was shamelessly forked from the Cloud-To-Butt plugin by panicsteve
+Feel free to use and reuse this code as you see fit (plsno goonies tho, we don't like goonies, grrr goon)
 
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
-
-
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
