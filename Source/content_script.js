@@ -36,7 +36,7 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bImperium\b/g, "Those Bee Guys (you know, from EVE)");
+	v = v.replace(/\bthe Imperium\b/g, "Those Bee Guys (you know, from EVE)");
 	v = v.replace(/\bCFC\b/g, "Those Bee Guys (you know, from EVE)");
 	v = v.replace(/\bGoons\b/g, "Those Bee Guys (you know, from EVE)");
 	v = v.replace(/\bGoonswarm\b/g, "Those Bee Guys (you know, from EVE)");
