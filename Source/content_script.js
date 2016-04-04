@@ -36,10 +36,15 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bThe Cloud\b/g, "My Butt");
-	v = v.replace(/\bThe cloud\b/g, "My butt");
-	v = v.replace(/\bthe Cloud\b/g, "my Butt");
-	v = v.replace(/\bthe cloud\b/g, "my butt");
+	v = v.replace(/\bImperium\b/g, "Those Bee Guys (you know, from EVE)");
+	v = v.replace(/\bCFC\b/g, "Those Bee Guys (you know, from EVE)");
+	v = v.replace(/\bGoons\b/g, "Those Bee Guys (you know, from EVE)");
+	v = v.replace(/\bGoonswarm\b/g, "Those Bee Guys (you know, from EVE)");
+	v = v.replace(/\bMittani\b/g, "Queen Bee");
+	v = v.replace(/\bMittens\b/g, "Queen Bee");
+	v = v.replace(/\bThe War of Sovless Aggression\b/g, "World War BEE");
+	v = v.replace(/\bThe Mercenary Wars\b/g, "World War BEE");
+	v = v.replace(/\bBand of Backstabbers\b/g, "Money Badger Coalition");
 	
 	textNode.nodeValue = v;
 }
